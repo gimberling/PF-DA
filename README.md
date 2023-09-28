@@ -33,6 +33,6 @@ In this repository you can find some of my projects completed both during my stu
 3. Project KPI - a project to develop a new KPI model to change the way employees work with visualization.
 
 <div id="bages" align="center">
-< a href="https://vk.com/gimberling"><img src="https://img.shields.io/badge/VK-white?logo=VK&logoColor=blue" width="100"/></ a>
+< a href="https://vk.com/gimberling"><img src="https://img.shields.io/badge/VK-white?logo=VK&logoColor=blue" width="100" alt="VK"/></ a>
 </div>
 
