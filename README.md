@@ -30,9 +30,9 @@ In this repository you can find some of my projects completed both during my stu
 <div id="footer" align="center">
   <img src="https://media.giphy.com/media/dieScX9SCf91Bg4Nsu/giphy.gif" width="400"/>
 </div>
+
 <div id="bages" align="center">
   <img src="https://img.shields.io/badge/VK-white?logo=VK&logoColor=blue" width="100"/>
   <img src="https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=blue" width="200"/>
-  <img src="https://img.shields.io/badge/VK-white?logo=VK&logoColor=blue" width="100"/>
 </div>
 
