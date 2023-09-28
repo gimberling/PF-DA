@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/dieScX9SCf91Bg4Nsu/giphy.gif" width="400"/>
+</div>
+
 Привет!
 
 Меня зовут Герасимов Павел и я начинающий аналитик данных, который работает на компанию АО "Гознак". 
@@ -27,12 +31,8 @@ In this repository you can find some of my projects completed both during my stu
 1. Course work Excel - educational project - unit economics calculator and visualization of the obtained data.
 2. Course work SQL - educational project - obtaining data from a database and visualizing data from the resulting table.
 3. Project KPI - a project to develop a new KPI model to change the way employees work with visualization.
-<div id="footer" align="center">
-  <img src="https://media.giphy.com/media/dieScX9SCf91Bg4Nsu/giphy.gif" width="400"/>
-</div>
 
 <div id="bages" align="center">
-  <img src="https://img.shields.io/badge/VK-white?logo=VK&logoColor=blue" width="100"/>
-  <img src="https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=blue" width="200"/>
+< a href="https://vk.com/gimberling"><img src="https://img.shields.io/badge/VK-white?logo=VK&logoColor=blue" width="100"/></ a>
 </div>
 
