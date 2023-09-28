@@ -31,5 +31,5 @@ In this repository you can find some of my projects completed both during my stu
   <img src="https://media.giphy.com/media/dieScX9SCf91Bg4Nsu/giphy.gif" width="400"/>
 </div>
 <div id="footer" align="center">
-  <img src="https://img.shields.io/badge/VK-blue" width="400"/>
+  <img src="https://img.shields.io/badge/VK-blue" width="100"/>
 </div>
