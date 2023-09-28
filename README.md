@@ -31,10 +31,3 @@ In this repository you can find some of my projects completed both during my stu
 1. Course work Excel - educational project - unit economics calculator and visualization of the obtained data.
 2. Course work SQL - educational project - obtaining data from a database and visualizing data from the resulting table.
 3. Project KPI - a project to develop a new KPI model to change the way employees work with visualization.
-
-<div id="bages" align="center">
-< a href="https://vk.com/gimberling"><img src="https://img.shields.io/badge/VK-white?logo=VK&logoColor=blue" width="100" alt="VK"/></ a>
-</div>
-<div id="bages" align="center">
-<img src="https://img.shields.io/badge/VK-white?logo=VK&logoColor=blue&link=https%3A%2F%2Fvk.com%2Fgimberling" width="100"/>
-</div>
